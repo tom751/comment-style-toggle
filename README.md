@@ -1,5 +1,7 @@
 # comment-style-toggle README
 
+# Superseded by [Tom's tools](https://github.com/tom751/Tom-s-tools)
+
 Converts block comments to line comments
 
 ```js
